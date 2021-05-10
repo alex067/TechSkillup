@@ -41,6 +41,10 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://www.notion.so/095503041d6a46ddb6986f488e578778?v=1df9edcba1ca4d34a606d95b897f6025
 > I wrote a syllabus for learning Python and Django. Four people have gone through it, two are interviewing and one got a job. It's based on using a somewhat even mix of coding challenges, personal projects and books.
 
+* https://www.udemy.com/course/automate/
+> A practical programming course for office workers, academics, and administrators who want to improve their productivity. 
+_Although Udemy courses aren't usually free, this particular 
+one goes completely free quite frequently_
 
 ## System Design
 * https://github.com/donnemartin/system-design-primer
