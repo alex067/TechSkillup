@@ -14,6 +14,10 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://course.elementsofai.com/
 > An Introduction to AI is a free online course for everyone interested in learning what AI is, what is possible (and not possible) with AI, and how it affects our lives – with no complicated math or programming required.
 
+## Blockchain
+* https://cryptozombies.io/
+> CryptoZombies is an interactive school that teaches you all things technical about blockchains. Learn to make smart contracts in Solidity or Libra by making your own crypto-collectibles game.
+
 ## Computer Science
 * https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0
 > An introduction to the intellectual enterprises of computer science and the art of programming.
