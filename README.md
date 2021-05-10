@@ -1,6 +1,10 @@
 # Free Learning Material Directory
 This repo contains a directory of highly rated, free learning materials, for various tech topics. Ranging from Full Stack development, to DevOps and System design.
 
+✏️ * https://github.com/kamranahmedse/developer-roadmap 
+Roadmaps provide an overview, birds-eye perspective of each field of practice, and the core technology / things you need to learn.
+It's extremely easy to become overwhelmed. Use it as a reference, and not as a strict 1:1 learning guide.
+
 ## Ansible
 * https://www.youtube.com/watch?v=goclfp6a2IQ&list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN
 I like to refrain from putting youtube videos, but this 
@@ -75,9 +79,17 @@ one goes completely free quite frequently_
 * https://www.udacity.com/course/introduction-to-python--ud1110
 > In this course, you'll learn the fundamentals of the Python programming language, along with programming best practices.
 
+## Security
+* https://github.com/OWASP/CheatSheetSeries
+> Welcome to the official repository for the Open Web Application Security Project® (OWASP) Cheat Sheet Series project. The project focuses on providing good security practices for builders in order to secure their applications.
+
 ## Site Reliability
 * https://sre.google/sre-book/table-of-contents/
 > Members of the SRE team explain how their engagement with the entire software lifecycle has enabled Google to build, deploy, monitor, and maintain some of the largest software systems in the world.
+
+## System Admin
+* https://github.com/trimstray/test-your-sysadmin-skills
+> This project contains 284 test questions and answers that can be used as a test your knowledge or during an interview/exam for position such as Linux (*nix) System Administrator.
 
 ## System Design
 * https://github.com/donnemartin/system-design-primer
