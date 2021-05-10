@@ -1,7 +1,7 @@
 # Free Learning Material Directory
 This repo contains a directory of highly rated, free learning materials, for various tech topics. Ranging from Full Stack development, to DevOps and System design.
 
-✏️ https://github.com/kamranahmedse/developer-roadmap 
+✏️ https://github.com/kamranahmedse/developer-roadmap \
   Roadmaps provide an overview, birds-eye perspective of each field of practice, and the core technology / things you need to learn.
 It's extremely easy to become overwhelmed. Use it as a reference, and not as a strict 1:1 learning guide.
 
