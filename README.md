@@ -52,6 +52,10 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://eloquentjavascript.net/
 > This is a book about JavaScript, programming, and the wonders of the digital. You can read it online here, or buy your own paperback copy.
 
+* https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+> Design patterns also provide us a common vocabulary to describe solutions. This can be significantly simpler than describing syntax and semantics when we're attempting to convey a way of structuring a solution in code form to others.
+> In this book we will explore applying both classical and modern design patterns to the JavaScript programming language.
+
 ## Kubernetes 
 * https://github.com/kelseyhightower/kubernetes-the-hard-way
 (Freeish, costs for GCP or AWS environment)
