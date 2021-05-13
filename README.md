@@ -22,6 +22,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://cryptozombies.io/
 > CryptoZombies is an interactive school that teaches you all things technical about blockchains. Learn to make smart contracts in Solidity or Libra by making your own crypto-collectibles game.
 
+* https://hackmd.io/@1LsqLgZ9SFyvmF1L1suBIw/dapp-dev
+> So you want to get started in Ethereum? I get several requests for info and resources and roadmaps every week so I decided to make this collection. I hope this helps and provides some more direction and is less overwhelming than other giant lists.
+
 ## Computer Science
 * https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0
 > An introduction to the intellectual enterprises of computer science and the art of programming.
