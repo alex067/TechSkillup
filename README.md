@@ -32,6 +32,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://github.com/ForrestKnight/open-source-cs-python
 > This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
 
+* https://www.edx.org/course/introduction-to-computer-science-and-programming-7
+> An introduction to computer science as a tool to solve real-world analytical problems using Python 3.5.
+
 ## DevOps
 * https://github.com/bregman-arie/devops-exercises
 >  This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE :)
