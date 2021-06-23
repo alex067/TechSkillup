@@ -77,6 +77,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://www.udacity.com/course/machine-learning--ud262
 > Machine Learning is a graduate-level course covering the area of Artificial Intelligence concerned with computer programs that modify and improve their performance through experiences. 
 
+* https://developers.google.com/machine-learning/crash-course/
+> Learn and apply fundamental machine learning concepts with the Crash Course, get real-world experience with the companion Kaggle competition, or visit Learn with Google AI to explore the full library of training resources. 
+
 ## Python
 * https://www.notion.so/095503041d6a46ddb6986f488e578778?v=1df9edcba1ca4d34a606d95b897f6025
 > I wrote a syllabus for learning Python and Django. Four people have gone through it, two are interviewing and one got a job. It's based on using a somewhat even mix of coding challenges, personal projects and books.
