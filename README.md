@@ -92,6 +92,10 @@ one goes completely free quite frequently_
 * https://www.udacity.com/course/introduction-to-python--ud1110
 > In this course, you'll learn the fundamentals of the Python programming language, along with programming best practices.
 
+* https://pythonbasics.org/
+> This site contains materials and exercises for the Python 3 programming language.
+In this course you will learn how to write code, the basics and see examples.
+
 ## Security
 * https://github.com/OWASP/CheatSheetSeries
 > Welcome to the official repository for the Open Web Application Security Project® (OWASP) Cheat Sheet Series project. The project focuses on providing good security practices for builders in order to secure their applications.
