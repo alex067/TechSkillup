@@ -80,6 +80,10 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://developers.google.com/machine-learning/crash-course/
 > Learn and apply fundamental machine learning concepts with the Crash Course, get real-world experience with the companion Kaggle competition, or visit Learn with Google AI to explore the full library of training resources. 
 
+## Networking (Internet, not social)
+* https://hpbn.co/
+> Performance is a feature. This book provides a hands-on overview of what every web developer needs to know about the various types of networks (WiFi, 3G/4G), transport protocols (UDP, TCP, and TLS), application protocols (HTTP/1.1, HTTP/2), and APIs available in the browser (XHR, WebSocket, WebRTC, and more) to deliver the best—fast, reliable, and resilient—user experience. 
+
 ## Python
 * https://www.notion.so/095503041d6a46ddb6986f488e578778?v=1df9edcba1ca4d34a606d95b897f6025
 > I wrote a syllabus for learning Python and Django. Four people have gone through it, two are interviewing and one got a job. It's based on using a somewhat even mix of coding challenges, personal projects and books.
@@ -103,6 +107,12 @@ In this course you will learn how to write code, the basics and see examples.
 ## Site Reliability
 * https://sre.google/sre-book/table-of-contents/
 > Members of the SRE team explain how their engagement with the entire software lifecycle has enabled Google to build, deploy, monitor, and maintain some of the largest software systems in the world.
+
+* https://dropbox.github.io/dbx-career-framework/ic1_reliability_engineer.html
+> The Site Reliability Engineer career path over at Dropbox.
+
+* https://sre.google/workbook/how-sre-relates/ 
+> The Site Reliability Workbook is the hands-on companion to the bestselling Site Reliability Engineering book and uses concrete examples to show how to put SRE principles and practices to work. This book contains practical examples from Google’s experiences and case studies from Google’s Cloud Platform customers. Evernote, The Home Depot, The New York Times, and other companies outline hard-won experiences of what worked for them and what didn’t.
 
 ## System Admin
 * https://github.com/trimstray/test-your-sysadmin-skills
