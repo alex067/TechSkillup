@@ -100,6 +100,9 @@ one goes completely free quite frequently_
 > This site contains materials and exercises for the Python 3 programming language.
 In this course you will learn how to write code, the basics and see examples.
 
+* https://www.coursera.org/professional-certificates/google-it-automation 
+> This beginner-level, six-course certificate, developed by Google, is designed to provide IT professionals with in-demand skills -- including Python, Git, and IT automation -- that can help you advance your career.
+
 ## Security
 * https://github.com/OWASP/CheatSheetSeries
 > Welcome to the official repository for the Open Web Application Security Project® (OWASP) Cheat Sheet Series project. The project focuses on providing good security practices for builders in order to secure their applications.
