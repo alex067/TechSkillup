@@ -73,6 +73,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://www.youtube.com/watch?v=IcslsH7OoYo&list=PL2_OBreMn7FoYmfx27iSwocotjiikS5BD
 > An excellent youtube playlist from Jeff Geerling
 
+* https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/
+> A surprisingly thorough article going over the core Kubernetes networking components & modeling 
+
 ## Machine Learning
 * https://www.udacity.com/course/machine-learning--ud262
 > Machine Learning is a graduate-level course covering the area of Artificial Intelligence concerned with computer programs that modify and improve their performance through experiences. 
