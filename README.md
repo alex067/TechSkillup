@@ -76,6 +76,10 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/
 > A surprisingly thorough article going over the core Kubernetes networking components & modeling 
 
+## Linux 
+* https://github.com/0xAX/linux-insides/blob/master/SUMMARY.md
+> A book-in-progress about the linux kernel and its insides. The goal is simple - to share my modest knowledge about the insides of the linux kernel and help people who are interested in linux kernel insides, and other low-level subject matter.
+
 ## Machine Learning
 * https://www.udacity.com/course/machine-learning--ud262
 > Machine Learning is a graduate-level course covering the area of Artificial Intelligence concerned with computer programs that modify and improve their performance through experiences. 
