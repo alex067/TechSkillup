@@ -47,6 +47,13 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://fullstackopen.com/en/ 
 > Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.
 
+* https://www.theodinproject.com/paths/full-stack-javascript
+> This path takes you through our entire JavaScript curriculum. The courses should be taken in the order that they are displayed. You'll learn everything you need to know to create beautiful responsive websites from scratch using JavaScript and NodeJs.
+
+* https://www.theodinproject.com/paths/full-stack-ruby-on-rails
+> This path takes you through our entire Ruby on Rails curriculum. The courses should be taken in the order that they are displayed. You'll learn everything you need to know to create beautiful responsive websites from scratch using Ruby on Rails.
+
+
 ## Git
 * https://www.udacity.com/course/version-control-with-git--ud123
 > This course covers the essentials of using the version control system Git. 
