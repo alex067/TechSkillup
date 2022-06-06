@@ -53,7 +53,6 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://www.theodinproject.com/paths/full-stack-ruby-on-rails
 > This path takes you through our entire Ruby on Rails curriculum. The courses should be taken in the order that they are displayed. You'll learn everything you need to know to create beautiful responsive websites from scratch using Ruby on Rails.
 
-
 ## Git
 * https://www.udacity.com/course/version-control-with-git--ud123
 > This course covers the essentials of using the version control system Git. 
@@ -72,6 +71,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 > Design patterns also provide us a common vocabulary to describe solutions. This can be significantly simpler than describing syntax and semantics when we're attempting to convey a way of structuring a solution in code form to others.
 > In this book we will explore applying both classical and modern design patterns to the JavaScript programming language.
+
+* https://exploringjs.com/es6/index.html
+> This book is about ECMAScript 6 (whose official name is ECMAScript 2015), a new version of JavaScript. This book covers ECMAScript 6 in depth, but is structured so that you can also quickly get an overview if you want to. This book not only tells you how ES6 works, it also tells you why it works the way it does.
 
 ## Kubernetes 
 * https://github.com/kelseyhightower/kubernetes-the-hard-way
