@@ -89,6 +89,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/
 > A surprisingly thorough article going over the core Kubernetes networking components & modeling 
 
+* https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmware-kubernetes-up-running-dive-into-the-future-of-infrastructure.pdf
+> Whether you are new to distributed systems or have been deploying cloud-native systems for years, containers and Kubernetes can help you achieve new levels of velocity, agility, reliability, and efficiency. This book describes the Kubernetes cluster orchestrator and how its tools and APIs can be used to improve the development, delivery, and maintenance of distributed applications. 
+
 ## Linux 
 * https://github.com/0xAX/linux-insides/blob/master/SUMMARY.md
 > A book-in-progress about the linux kernel and its insides. The goal is simple - to share my modest knowledge about the insides of the linux kernel and help people who are interested in linux kernel insides, and other low-level subject matter.
