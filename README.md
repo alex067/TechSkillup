@@ -61,6 +61,10 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://git-scm.com/book/en/v2
 > The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here.
 
+## Golang
+* https://go.dev/doc/effective_go
+> A document that gives tips for writing clear, idiomatic Go code. A must read for any new Go programmer. It augments the tour and the language specification, both of which should be read first.
+
 ## Javascript
 * https://eloquentjavascript.net/
 > This is a book about JavaScript, programming, and the wonders of the digital. You can read it online here, or buy your own paperback copy.
