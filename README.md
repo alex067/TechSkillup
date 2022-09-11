@@ -25,6 +25,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://hackmd.io/@1LsqLgZ9SFyvmF1L1suBIw/dapp-dev
 > So you want to get started in Ethereum? I get several requests for info and resources and roadmaps every week so I decided to make this collection. I hope this helps and provides some more direction and is less overwhelming than other giant lists.
 
+* https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=80915s
+> An excellent 32 hour course from the legend Patrick Collins. This course will give you a full introduction into all of the core concepts related to blockchain, smart contracts, Solidity, ERC20s, full-stack Web3 dapps, decentralized finance (DeFi), JavaScript, TypeScript, Chainlink, Ethereum, upgradable smart contracts, DAOs, the graph, moralis, aave, IPFS, and more. 
+
 ## Computer Science
 * https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0
 > An introduction to the intellectual enterprises of computer science and the art of programming.
