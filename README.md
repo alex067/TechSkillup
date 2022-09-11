@@ -99,6 +99,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://github.com/0xAX/linux-insides/blob/master/SUMMARY.md
 > A book-in-progress about the linux kernel and its insides. The goal is simple - to share my modest knowledge about the insides of the linux kernel and help people who are interested in linux kernel insides, and other low-level subject matter.
 
+* https://www.linuxfromscratch.org/lfs/index.html
+> Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own customized Linux system entirely from source. 
+
 ## Machine Learning
 * https://www.udacity.com/course/machine-learning--ud262
 > Machine Learning is a graduate-level course covering the area of Artificial Intelligence concerned with computer programs that modify and improve their performance through experiences. 
