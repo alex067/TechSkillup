@@ -78,6 +78,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://exploringjs.com/es6/index.html
 > This book is about ECMAScript 6 (whose official name is ECMAScript 2015), a new version of JavaScript. This book covers ECMAScript 6 in depth, but is structured so that you can also quickly get an overview if you want to. This book not only tells you how ES6 works, it also tells you why it works the way it does.
 
+* https://javascript.info/
+> How it's done now. From the basics to advanced topics with simple, but detailed explanations.
+
 ## Kubernetes 
 * https://github.com/kelseyhightower/kubernetes-the-hard-way
 (Freeish, costs for GCP or AWS environment)
