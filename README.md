@@ -67,6 +67,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://go.dev/doc/effective_go
 > A document that gives tips for writing clear, idiomatic Go code. A must read for any new Go programmer. It augments the tour and the language specification, both of which should be read first.
 
+* https://quii.gitbook.io/learn-go-with-tests/
+> Explore the Go language by writing tests. Get a grounding with TDD. Go is a good language for learning TDD because it is a simple language to learn and testing is built-in. Be confident that you'll be able to start writing robust, well-tested systems in Go
+
 ## Javascript
 * https://eloquentjavascript.net/
 > This is a book about JavaScript, programming, and the wonders of the digital. You can read it online here, or buy your own paperback copy.
