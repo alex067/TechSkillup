@@ -104,6 +104,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://book.kubebuilder.io/
 > Users of Kubernetes will develop a deeper understanding of Kubernetes through learning the fundamental concepts behind how APIs are designed and implemented. This book will teach readers how to develop their own Kubernetes APIs and the principles from which the core Kubernetes APIs are designed.
 
+* https://cluster-api.sigs.k8s.io/introduction.html 
+> Cluster API is a Kubernetes sub-project focused on providing declarative APIs and tooling to simplify provisioning, upgrading, and operating multiple Kubernetes clusters.
+
 ## Linux 
 * https://github.com/0xAX/linux-insides/blob/master/SUMMARY.md
 > A book-in-progress about the linux kernel and its insides. The goal is simple - to share my modest knowledge about the insides of the linux kernel and help people who are interested in linux kernel insides, and other low-level subject matter.
