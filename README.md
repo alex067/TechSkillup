@@ -18,6 +18,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://course.elementsofai.com/
 > An Introduction to AI is a free online course for everyone interested in learning what AI is, what is possible (and not possible) with AI, and how it affects our lives – with no complicated math or programming required.
 
+* https://www.deeplearning.ai/courses/generative-ai-with-llms/
+> In Generative AI with Large Language Models (LLMs), you’ll learn the fundamentals of how generative AI works, and how to deploy it in real-world applications.
+
 ## Blockchain
 * https://cryptozombies.io/
 > CryptoZombies is an interactive school that teaches you all things technical about blockchains. Learn to make smart contracts in Solidity or Libra by making your own crypto-collectibles game.
