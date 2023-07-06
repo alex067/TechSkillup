@@ -21,6 +21,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://www.deeplearning.ai/courses/generative-ai-with-llms/
 > In Generative AI with Large Language Models (LLMs), you’ll learn the fundamentals of how generative AI works, and how to deploy it in real-world applications.
 
+* https://www.cloudskillsboost.google/journeys/118
+> This learning path guides you through a curated collection of content on generative AI products and technologies, from the fundamentals of Large Language Models to how to create and deploy generative AI solutions on Google Cloud.
+
 ## Blockchain
 * https://cryptozombies.io/
 > CryptoZombies is an interactive school that teaches you all things technical about blockchains. Learn to make smart contracts in Solidity or Libra by making your own crypto-collectibles game.
