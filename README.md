@@ -127,6 +127,13 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://developers.google.com/machine-learning/crash-course/
 > Learn and apply fundamental machine learning concepts with the Crash Course, get real-world experience with the companion Kaggle competition, or visit Learn with Google AI to explore the full library of training resources. 
 
+## Monitoring & Observability 
+* https://learn.datadoghq.com/courses/dd-101-sre
+> Datadog’s core suite of tools gives SREs the ability to view their entire infrastructure at a glance as well as zoom in on individual components such as processes. This course teaches you how to use these capabilities effectively.
+
+* https://learn.datadoghq.com/courses/dd-101-dev
+> Learn the Datadog features and capabilities that are most fundamental to the application developer role, such as working with integrations, configuring your services for APM and log collection, synthetic API and browser testing, and RUM.
+
 ## Networking (Internet, not social)
 * https://hpbn.co/
 > Performance is a feature. This book provides a hands-on overview of what every web developer needs to know about the various types of networks (WiFi, 3G/4G), transport protocols (UDP, TCP, and TLS), application protocols (HTTP/1.1, HTTP/2), and APIs available in the browser (XHR, WebSocket, WebRTC, and more) to deliver the best—fast, reliable, and resilient—user experience. 
