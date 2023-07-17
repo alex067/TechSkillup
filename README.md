@@ -113,6 +113,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://cluster-api.sigs.k8s.io/introduction.html 
 > Cluster API is a Kubernetes sub-project focused on providing declarative APIs and tooling to simplify provisioning, upgrading, and operating multiple Kubernetes clusters.
 
+* https://100daysofkubernetes.io/overview.html
+> This book provides a list of resources from across the cloud native space to learn about and master Kubernetes. Whether you are just getting started with Kubernetes or you are already using Kubernetes, I am sure that you will find a way to use the resources or contribute :)
+
 ## Linux 
 * https://github.com/0xAX/linux-insides/blob/master/SUMMARY.md
 > A book-in-progress about the linux kernel and its insides. The goal is simple - to share my modest knowledge about the insides of the linux kernel and help people who are interested in linux kernel insides, and other low-level subject matter.
