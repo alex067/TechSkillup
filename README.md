@@ -1,9 +1,32 @@
-# Free Learning Material Directory
+# :rocket: Learn Something New 
 This repo contains a directory of highly rated, free learning materials, for various tech topics. Ranging from Full Stack development, to DevOps and System design.
 
-### [Ansible](#ansible)
+### Table of Contents
+* [Ansible](#ansible)
+* [Artificial Intelligence](#artificial-intelligence)
+* [AWS](#aws)
+* [Blockchain](#blockchain)
+* [Computer Science](#computer-science)
+* [Devops](#devops)
+* [Docker](#docker)
+* [Fullstack Development](#fullstack-development)
+* [Git](#git)
+* [Golang](#golang)
+* [Javascript](#javascript)
+* [Kubernetes](#kubernetes)
+* [Linux](#linux)
+* [Machine Learning](#machine-learning)
+* [Monitoring & Observability](#monitoring-&-observability)
+* [Networking](#Networking)
+* [Python](#Python)
+* [Security](#Security)
+* [Site Reliability](#site-reliability)
+* [System Admin](#system-admin)
+* [System Design](#system-design)
+* [Terraform](#terraform)
+---
 
-## Ansible [ansible]
+## Ansible 
 * https://www.youtube.com/watch?v=goclfp6a2IQ&list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN
 I like to refrain from putting youtube videos, but this 
 is a playlist from Jeff Geerling that's absolutely excellent.
@@ -21,6 +44,13 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 
 * https://www.cloudskillsboost.google/journeys/118
 > This learning path guides you through a curated collection of content on generative AI products and technologies, from the fundamentals of Large Language Models to how to create and deploy generative AI solutions on Google Cloud.
+
+## AWS 
+* https://workshops.aws/
+> This website lists workshops created by the teams at Amazon Web Services (AWS). Workshops are hands-on events designed to teach or introduce practical skills, techniques, or concepts which you can use to solve business problems.
+
+* https://aws.amazon.com/builders-library
+> How Amazon builds and operates software. Collection of detailed articles from AWS regarding their various internal practices and system processes.
 
 ## Blockchain
 * https://cryptozombies.io/
@@ -114,6 +144,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://100daysofkubernetes.io/overview.html
 > This book provides a list of resources from across the cloud native space to learn about and master Kubernetes. Whether you are just getting started with Kubernetes or you are already using Kubernetes, I am sure that you will find a way to use the resources or contribute :)
 
+* https://aws.github.io/aws-eks-best-practices/
+> Welcome to the EKS Best Practices Guides. The primary goal of this project is to offer a set of best practices for day 2 operations for Amazon EKS.
+
 ## Linux 
 * https://github.com/0xAX/linux-insides/blob/master/SUMMARY.md
 > A book-in-progress about the linux kernel and its insides. The goal is simple - to share my modest knowledge about the insides of the linux kernel and help people who are interested in linux kernel insides, and other low-level subject matter.
@@ -135,7 +168,10 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://learn.datadoghq.com/courses/dd-101-dev
 > Learn the Datadog features and capabilities that are most fundamental to the application developer role, such as working with integrations, configuring your services for APM and log collection, synthetic API and browser testing, and RUM.
 
-## Networking (Internet, not social)
+* https://training.promlabs.com/
+> Learn how to monitor your systems and services more effectively with online trainings created by the co-founder of Prometheus. 
+
+## Networking 
 * https://hpbn.co/
 > Performance is a feature. This book provides a hands-on overview of what every web developer needs to know about the various types of networks (WiFi, 3G/4G), transport protocols (UDP, TCP, and TLS), application protocols (HTTP/1.1, HTTP/2), and APIs available in the browser (XHR, WebSocket, WebRTC, and more) to deliver the best—fast, reliable, and resilient—user experience. 
 
@@ -180,6 +216,12 @@ In this course you will learn how to write code, the basics and see examples.
 * https://github.com/donnemartin/system-design-primer
 > Learning how to design scalable systems will help you become a better engineer. System design is a broad topic. There is a vast amount of resources scattered throughout the web on system design principles. This repo is an organized collection of resources to help you learn how to build systems at scale.
 
+* https://google.github.io/building-secure-and-reliable-systems/raw/toc.html
+> Can a system be considered truly reliable if it isn't fundamentally secure? Or can it be considered secure if it's unreliable? Security is crucial to the design and operation of scalable systems in production, as it plays an important part in product quality, performance, and availability. In this book, experts from Google share best practices to help your organization design scalable and reliable systems that are fundamentally secure.
+
 ## Terraform
 * https://learn.hashicorp.com/tutorials/terraform/associate-study?in=terraform/certification
 > This guide lists resources you should study if you are preparing for the Terraform Associate Certification exam from scratch. We've listed the resources in order of difficulty so that you should be able to progress through the list in order.
+
+* https://www.terraform-best-practices.com/
+> This document is an attempt to systematically describe best practices using Terraform and provide recommendations for the most frequent problems Terraform users experience.
