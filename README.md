@@ -2,8 +2,8 @@
 This repo contains a directory of highly rated, free learning materials, for various tech topics. Ranging from Full Stack development, to DevOps and System design.
 
 ### Table of Contents
-*[Ansible](#ansible)
-*[Artificial Intelligence](#artificial-intelligence)
+* [Ansible](#ansible)
+* [Artificial Intelligence](#artificial-intelligence)
 ##### [3. AWS](#aws)
 ##### [4. Blockchain](#blockchain)
 ##### [5. Computer Science](#computer-science)
