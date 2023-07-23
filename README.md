@@ -1,9 +1,9 @@
 # Free Learning Material Directory
 This repo contains a directory of highly rated, free learning materials, for various tech topics. Ranging from Full Stack development, to DevOps and System design.
 
-# [Ansible](#ansible)
+### [Ansible](#ansible)
 
-## Ansible [ansible
+## Ansible [ansible]
 * https://www.youtube.com/watch?v=goclfp6a2IQ&list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN
 I like to refrain from putting youtube videos, but this 
 is a playlist from Jeff Geerling that's absolutely excellent.
