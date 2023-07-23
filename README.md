@@ -45,6 +45,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://www.cloudskillsboost.google/journeys/118
 > This learning path guides you through a curated collection of content on generative AI products and technologies, from the fundamentals of Large Language Models to how to create and deploy generative AI solutions on Google Cloud.
 
+* https://github.com/openai/openai-cookbook
+> The OpenAI Cookbook shares example code for accomplishing common tasks with the OpenAI API.
+
 ## AWS 
 * https://workshops.aws/
 > This website lists workshops created by the teams at Amazon Web Services (AWS). Workshops are hands-on events designed to teach or introduce practical skills, techniques, or concepts which you can use to solve business problems.
@@ -89,6 +92,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 
 * https://www.theodinproject.com/paths/full-stack-ruby-on-rails
 > This path takes you through our entire Ruby on Rails curriculum. The courses should be taken in the order that they are displayed. You'll learn everything you need to know to create beautiful responsive websites from scratch using Ruby on Rails.
+
+* https://www.frontendinterviewhandbook.com/
+> Front end interview preparation materials for busy engineers - trivias, coding, algorithms, front end system design and more!
 
 ## Git
 * https://www.udacity.com/course/version-control-with-git--ud123
