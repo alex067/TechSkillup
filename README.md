@@ -75,6 +75,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://www.edx.org/course/introduction-to-computer-science-and-programming-7
 > An introduction to computer science as a tool to solve real-world analytical problems using Python 3.5.
 
+* https://www.coursera.org/learn/build-a-computer?courseSlug=build-a-computer
+> Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)
+
 ## DevOps
 * https://github.com/bregman-arie/devops-exercises
 >  This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE :)
