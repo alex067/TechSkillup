@@ -99,6 +99,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://www.frontendinterviewhandbook.com/
 > Front end interview preparation materials for busy engineers - trivias, coding, algorithms, front end system design and more!
 
+* https://refactoring.guru/
+> Refactoring.Guru makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
+
 ## Git
 * https://www.udacity.com/course/version-control-with-git--ud123
 > This course covers the essentials of using the version control system Git. 
