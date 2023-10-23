@@ -181,7 +181,10 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 > Learn the Datadog features and capabilities that are most fundamental to the application developer role, such as working with integrations, configuring your services for APM and log collection, synthetic API and browser testing, and RUM.
 
 * https://training.promlabs.com/
-> Learn how to monitor your systems and services more effectively with online trainings created by the co-founder of Prometheus. 
+> Learn how to monitor your systems and services more effectively with online trainings created by the co-founder of Prometheus.
+
+* https://samber.github.io/awesome-prometheus-alerts/
+> Collection of useful alerting rules for Prometheus.
 
 ## Networking 
 * https://hpbn.co/
