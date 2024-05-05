@@ -192,7 +192,10 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 
 ## Networking 
 * https://hpbn.co/
-> Performance is a feature. This book provides a hands-on overview of what every web developer needs to know about the various types of networks (WiFi, 3G/4G), transport protocols (UDP, TCP, and TLS), application protocols (HTTP/1.1, HTTP/2), and APIs available in the browser (XHR, WebSocket, WebRTC, and more) to deliver the best—fast, reliable, and resilient—user experience. 
+> Performance is a feature. This book provides a hands-on overview of what every web developer needs to know about the various types of networks (WiFi, 3G/4G), transport protocols (UDP, TCP, and TLS), application protocols (HTTP/1.1, HTTP/2), and APIs available in the browser (XHR, WebSocket, WebRTC, and more) to deliver the best—fast, reliable, and resilient—user experience.
+
+* https://beej.us/guide/bgnet/
+> Hello, one and all! This is my little how-to guide on network programming using Internet sockets, or "sockets programming", for those of you who prefer it. The sockets API, though started by the Berkeley folk, has been ported to many many platforms, including Unix, Linux, and even Windows.
 
 ## Python
 * https://www.notion.so/095503041d6a46ddb6986f488e578778?v=1df9edcba1ca4d34a606d95b897f6025
@@ -244,6 +247,9 @@ In this course you will learn how to write code, the basics and see examples.
 
 * https://github.com/karanpratapsingh/system-design
 > System design interviews can be quite open-ended and intimidating as it is a very extensive topic. There can be multiple solutions to even the most basic system design problems. The objective of this book is to help you learn the fundamentals and explore the advanced topics of system design.
+
+* https://www.designgurus.io/course/grokking-system-design-fundamentals
+> Grokking System Design Fundamentals is designed to equip software engineers with the essential knowledge and skills required to design large complex systems. This course covers a wide range of key concepts, including caching, load balancing, data partitioning, proxy servers, and more, that are crucial for designing efficient, scalable, and reliable distributed systems. 
 
 ## Terraform
 * https://learn.hashicorp.com/tutorials/terraform/associate-study?in=terraform/certification
