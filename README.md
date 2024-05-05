@@ -19,6 +19,7 @@ This repo contains a directory of highly rated, free learning materials, for var
 * [Monitoring & Observability](#monitoring-&-observability)
 * [Networking](#Networking)
 * [Python](#Python)
+* [Rust](#Rust)
 * [Security](#Security)
 * [Site Reliability](#site-reliability)
 * [System Admin](#system-admin)
@@ -211,6 +212,10 @@ In this course you will learn how to write code, the basics and see examples.
 
 * https://www.coursera.org/professional-certificates/google-it-automation 
 > This beginner-level, six-course certificate, developed by Google, is designed to provide IT professionals with in-demand skills -- including Python, Git, and IT automation -- that can help you advance your career.
+
+## Rust
+* https://doc.rust-lang.org/book/ch00-00-introduction.html
+> Welcome to The Rust Programming Language, an introductory book about Rust.
 
 ## Security
 * https://github.com/OWASP/CheatSheetSeries
