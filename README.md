@@ -242,6 +242,9 @@ In this course you will learn how to write code, the basics and see examples.
 * https://google.github.io/building-secure-and-reliable-systems/raw/toc.html
 > Can a system be considered truly reliable if it isn't fundamentally secure? Or can it be considered secure if it's unreliable? Security is crucial to the design and operation of scalable systems in production, as it plays an important part in product quality, performance, and availability. In this book, experts from Google share best practices to help your organization design scalable and reliable systems that are fundamentally secure.
 
+* https://github.com/karanpratapsingh/system-design
+> System design interviews can be quite open-ended and intimidating as it is a very extensive topic. There can be multiple solutions to even the most basic system design problems. The objective of this book is to help you learn the fundamentals and explore the advanced topics of system design.
+
 ## Terraform
 * https://learn.hashicorp.com/tutorials/terraform/associate-study?in=terraform/certification
 > This guide lists resources you should study if you are preparing for the Terraform Associate Certification exam from scratch. We've listed the resources in order of difficulty so that you should be able to progress through the list in order.
