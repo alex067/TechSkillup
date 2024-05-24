@@ -120,6 +120,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://quii.gitbook.io/learn-go-with-tests/
 > Explore the Go language by writing tests. Get a grounding with TDD. Go is a good language for learning TDD because it is a simple language to learn and testing is built-in. Be confident that you'll be able to start writing robust, well-tested systems in Go
 
+* https://go101.org/
+> A collection of free updated books on learning Golang basics and fundamentals.
+
 ## Javascript
 * https://eloquentjavascript.net/
 > This is a book about JavaScript, programming, and the wonders of the digital. You can read it online here, or buy your own paperback copy.
@@ -189,6 +192,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 
 * https://samber.github.io/awesome-prometheus-alerts/
 > Collection of useful alerting rules for Prometheus.
+
+* https://www.brendangregg.com/overview.html
+> Brendan Gregg is the author of Systems Performance, and previous engineer at Netflix. This site is a collection of his work, including articles and books. Extremely rich in content and must know for anyone working with monitoring and systems engineering.
 
 ## Networking 
 * https://hpbn.co/
