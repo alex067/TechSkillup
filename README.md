@@ -166,6 +166,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://aws.github.io/aws-eks-best-practices/
 > Welcome to the EKS Best Practices Guides. The primary goal of this project is to offer a set of best practices for day 2 operations for Amazon EKS.
 
+* https://www.eksworkshop.com/docs/introduction/
+> This workshop guides you through a set of hands-on lab exercises to learn and explore the various features provided by EKS and how it integrates with the broader set of services offered by AWS. 
+
 ## Linux 
 * https://github.com/0xAX/linux-insides/blob/master/SUMMARY.md
 > A book-in-progress about the linux kernel and its insides. The goal is simple - to share my modest knowledge about the insides of the linux kernel and help people who are interested in linux kernel insides, and other low-level subject matter.
