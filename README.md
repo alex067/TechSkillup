@@ -174,7 +174,10 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 > A book-in-progress about the linux kernel and its insides. The goal is simple - to share my modest knowledge about the insides of the linux kernel and help people who are interested in linux kernel insides, and other low-level subject matter.
 
 * https://www.linuxfromscratch.org/lfs/index.html
-> Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own customized Linux system entirely from source. 
+> Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own customized Linux system entirely from source.
+
+* https://www.sadservers.com
+Test your Linux and DevOps troubleshooting skills on real Linux servers in a "Capture the Flag" fashion. Very similar to KodeKloud or even Leetcode but for DevOps.
 
 ## Machine Learning
 * https://www.udacity.com/course/machine-learning--ud262
