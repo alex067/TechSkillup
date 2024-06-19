@@ -49,6 +49,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://github.com/openai/openai-cookbook
 > The OpenAI Cookbook shares example code for accomplishing common tasks with the OpenAI API.
 
+* https://github.com/mrsaeeddev/free-ai-resources
+> A massive list of free machine learning and AI courses. Frequently maintained and updated.
+
 ## AWS 
 * https://workshops.aws/
 > This website lists workshops created by the teams at Amazon Web Services (AWS). Workshops are hands-on events designed to teach or introduce practical skills, techniques, or concepts which you can use to solve business problems.
