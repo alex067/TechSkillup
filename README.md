@@ -116,6 +116,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://git-scm.com/book/en/v2
 > The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here.
 
+* https://trunkbaseddevelopment.com/
+> Learn about trunk based development, a common git workflow used at scale by Google, Facebook and more, from small startups to large enterprises. This site attempts to collect all the related facts, rationale and techniques for Trunk-Based Development together in one place, complete with twenty-five diagrams to help explain things. All without using TBD as an acronym even once twice.
+
 ## Golang
 * https://go.dev/doc/effective_go
 > A document that gives tips for writing clear, idiomatic Go code. A must read for any new Go programmer. It augments the tour and the language specification, both of which should be read first.
