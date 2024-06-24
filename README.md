@@ -185,6 +185,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://www.sadservers.com
 Test your Linux and DevOps troubleshooting skills on real Linux servers in a "Capture the Flag" fashion. Very similar to KodeKloud or even Leetcode but for DevOps.
 
+* https://tldr.sh/
+> Community effort to simplify the beloved man pages with practical examples. Powerful cheat sheat or use as a reference for Linux. 
+
 ## Machine Learning
 * https://www.udacity.com/course/machine-learning--ud262
 > Machine Learning is a graduate-level course covering the area of Artificial Intelligence concerned with computer programs that modify and improve their performance through experiences. 
