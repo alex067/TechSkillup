@@ -19,6 +19,7 @@ This repo contains a directory of highly rated, free learning materials, for var
 * [Monitoring & Observability](#monitoring-&-observability)
 * [Networking](#Networking)
 * [Python](#Python)
+* [React](#React)
 * [Rust](#Rust)
 * [Security](#Security)
 * [Site Reliability](#site-reliability)
@@ -236,6 +237,13 @@ In this course you will learn how to write code, the basics and see examples.
 
 * https://www.coursera.org/professional-certificates/google-it-automation 
 > This beginner-level, six-course certificate, developed by Google, is designed to provide IT professionals with in-demand skills -- including Python, Git, and IT automation -- that can help you advance your career.
+
+## React
+* https://nextjs.org/learn/react-foundations
+> Welcome to the React Foundations course! This beginner-friendly, example-led course will guide you through the prerequisite knowledge for Next.js. You will build a simple project step-by-step; starting with a JavaScript application, then migrating it to React and Next.js.
+
+* https://nextjs.org/learn/dashboard-app
+> Welcome to the Next.js App Router course! In this free interactive course, you'll learn the main features of Next.js by building a full-stack web application.
 
 ## Rust
 * https://doc.rust-lang.org/book/ch00-00-introduction.html
