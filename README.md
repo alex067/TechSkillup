@@ -31,9 +31,7 @@ Navigate the repository by clicking on the technology you're interested in. Have
 ---
 
 ## Ansible 
-* https://www.youtube.com/watch?v=goclfp6a2IQ&list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN
-I like to refrain from putting youtube videos, but this 
-is a playlist from Jeff Geerling that's absolutely excellent.
+* [Jeff Geerling Ansible Playlist](https://www.youtube.com/watch?v=goclfp6a2IQ&list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN)
 > Jeff Geerling (geerlingguy) introduces Ansible in the first episode of a new live-streaming series "Ansible 101 with Jeff Geerling."
 
 ## Artificial Intelligence 
