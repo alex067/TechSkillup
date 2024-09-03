@@ -192,7 +192,7 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 > Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own customized Linux system entirely from source.
 
 * https://www.sadservers.com
-Test your Linux and DevOps troubleshooting skills on real Linux servers in a "Capture the Flag" fashion. Very similar to KodeKloud or even Leetcode but for DevOps.
+> Test your Linux and DevOps troubleshooting skills on real Linux servers in a "Capture the Flag" fashion. Very similar to KodeKloud or even Leetcode but for DevOps.
 
 * https://tldr.sh/
 > Community effort to simplify the beloved man pages with practical examples. Powerful cheat sheat or use as a reference for Linux. 
