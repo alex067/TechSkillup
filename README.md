@@ -283,8 +283,11 @@ In this course you will learn how to write code, the basics and see examples.
 * https://github.com/karanpratapsingh/system-design
 > System design interviews can be quite open-ended and intimidating as it is a very extensive topic. There can be multiple solutions to even the most basic system design problems. The objective of this book is to help you learn the fundamentals and explore the advanced topics of system design.
 
-* https://www.designgurus.io/course/grokking-system-design-fundamentals
-> Grokking System Design Fundamentals is designed to equip software engineers with the essential knowledge and skills required to design large complex systems. This course covers a wide range of key concepts, including caching, load balancing, data partitioning, proxy servers, and more, that are crucial for designing efficient, scalable, and reliable distributed systems. 
+* [Grokking the System Design Fundamentals](https://www.designgurus.io/course/grokking-system-design-fundamentals)
+> Grokking System Design Fundamentals is designed to equip software engineers with the essential knowledge and skills required to design large complex systems. This course covers a wide range of key concepts, including caching, load balancing, data partitioning, proxy servers, and more, that are crucial for designing efficient, scalable, and reliable distributed systems.
+
+* [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
+> Grokking the System Design Interview is a complete guide to master the System Design Interview. It is created by Design Gurus who are a team of hiring managers from Google, Facebook, Microsoft, and Amazon. This course contains a carefully chosen set of questions that have not only been repeatedly asked at top tech companies but also provide a thorough experience to handle any system design problem.
 
 ## Terraform
 * https://learn.hashicorp.com/tutorials/terraform/associate-study?in=terraform/certification
