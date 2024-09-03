@@ -1,5 +1,7 @@
-# :rocket: Learn Something New 
-This repo contains a directory of highly rated, free learning materials, for various tech topics. Ranging from Full Stack development, to DevOps and System design.
+# TechSkillup 🤖
+Repository containing a directory of highly reated, free or paid learning materials for various technical topics. Ranging from learning Golang, to general Computer Science fundamentals, Blockhain, and AI. Looking to learn something new or refresh yourself? We got you! 
+
+Navigate the repository by clicking on the technology you're interested in. Have fun!
 
 ### Table of Contents
 * [Ansible](#ansible)
@@ -35,23 +37,23 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 > Jeff Geerling (geerlingguy) introduces Ansible in the first episode of a new live-streaming series "Ansible 101 with Jeff Geerling."
 
 ## Artificial Intelligence 
-* https://buildingai.elementsofai.com/
+* [Building AI](https://buildingai.elementsofai.com/)
 > Building AI a flexible online course for anyone who wants to learn about the practical methods that make artificial intelligence a reality. You will get a solid introduction to for example machine learning and neural networks, and you will learn where and how AI methods are applied in real life.
 
-* https://course.elementsofai.com/
+* [Elements of AI](https://course.elementsofai.com/)
 > An Introduction to AI is a free online course for everyone interested in learning what AI is, what is possible (and not possible) with AI, and how it affects our lives – with no complicated math or programming required.
 
-* https://www.deeplearning.ai/courses/generative-ai-with-llms/
+* [Generative AI with LLMs](https://www.deeplearning.ai/courses/generative-ai-with-llms/)
 > In Generative AI with Large Language Models (LLMs), you’ll learn the fundamentals of how generative AI works, and how to deploy it in real-world applications.
 
 * https://www.cloudskillsboost.google/journeys/118
 > This learning path guides you through a curated collection of content on generative AI products and technologies, from the fundamentals of Large Language Models to how to create and deploy generative AI solutions on Google Cloud.
 
-* https://github.com/openai/openai-cookbook
+* [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 > The OpenAI Cookbook shares example code for accomplishing common tasks with the OpenAI API.
 
-* https://github.com/mrsaeeddev/free-ai-resources
-> A massive list of free machine learning and AI courses. Frequently maintained and updated.
+* [LLM Course](https://github.com/mlabonne/llm-course)
+> The LLM course is divided into three parts: LLM Fundamentals covers essential knowledge about mathematics, Python, and neural networks. The LLM Scientist focuses on building the best possible LLMs using the latest techniques. The LLM Engineer focuses on creating LLM-based applications and deploying them.
 
 ## AWS 
 * https://workshops.aws/
@@ -130,6 +132,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 * https://go101.org/
 > A collection of free updated books on learning Golang basics and fundamentals.
 
+* https://build-your-own.org/database/
+> Understand databases from the bottom up by building your own, in small steps, and with simple Golang code.
+
 ## Javascript
 * https://eloquentjavascript.net/
 > This is a book about JavaScript, programming, and the wonders of the digital. You can read it online here, or buy your own paperback copy.
@@ -143,6 +148,9 @@ is a playlist from Jeff Geerling that's absolutely excellent.
 
 * https://javascript.info/
 > How it's done now. From the basics to advanced topics with simple, but detailed explanations.
+
+* https://build-your-own.org/webserver/
+> Most people use HTTP daily, but few understand its inner workings. This “Build Your Own X” book dives deep, teaching basics from scratch for a clearer understanding of the tools and tech we rely on.
 
 ## Kubernetes 
 * https://github.com/kelseyhightower/kubernetes-the-hard-way
