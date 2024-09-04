@@ -87,8 +87,11 @@ Navigate the repository by clicking on the technology you're interested in. Have
 > Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)
 
 ## DevOps
-* https://github.com/bregman-arie/devops-exercises
+* [Devops Exercises](https://github.com/bregman-arie/devops-exercises)
 >  This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE :)
+
+* [Fundamentals of Devops](https://www.gruntwork.io/fundamentals-of-devops)
+> This blog post series is a guide to software delivery: that is, all the processes, tools, and techniques that are required to run and maintain software in production on an ongoing basis. In particular, this series is a guide to DevOps, one of the methodologies used today to make software delivery vastly more efficient.
 
 ## Docker
 * https://docker-curriculum.com/
