@@ -53,6 +53,9 @@ Navigate the repository by clicking on the technology you're interested in. Have
 * [LLM Course](https://github.com/mlabonne/llm-course)
 > The LLM course is divided into three parts: LLM Fundamentals covers essential knowledge about mathematics, Python, and neural networks. The LLM Scientist focuses on building the best possible LLMs using the latest techniques. The LLM Engineer focuses on creating LLM-based applications and deploying them.
 
+* [Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
+> This lecture provides a concise overview of building a ChatGPT-like model, covering both pretraining (language modeling) and post-training (SFT/RLHF). For each component, it explores common practices in data collection, algorithms, and evaluation methods. This guest lecture was delivered by Yann Dubois in Stanford’s CS229: Machine Learning course, in Summer 2024.
+
 ## AWS 
 * https://workshops.aws/
 > This website lists workshops created by the teams at Amazon Web Services (AWS). Workshops are hands-on events designed to teach or introduce practical skills, techniques, or concepts which you can use to solve business problems.
