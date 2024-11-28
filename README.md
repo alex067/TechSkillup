@@ -201,6 +201,9 @@ Navigate the repository by clicking on the technology you're interested in. Have
 * https://tldr.sh/
 > Community effort to simplify the beloved man pages with practical examples. Powerful cheat sheat or use as a reference for Linux. 
 
+* [vim-be-good](https://github.com/ThePrimeagen/vim-be-good)
+> Vim be good is a plugin designed to make you better at vim by creating a game to practice basic movements in.
+
 ## Machine Learning
 * https://www.udacity.com/course/machine-learning--ud262
 > Machine Learning is a graduate-level course covering the area of Artificial Intelligence concerned with computer programs that modify and improve their performance through experiences. 
@@ -223,6 +226,12 @@ Navigate the repository by clicking on the technology you're interested in. Have
 
 * https://www.brendangregg.com/overview.html
 > Brendan Gregg is the author of Systems Performance, and previous engineer at Netflix. This site is a collection of his work, including articles and books. Extremely rich in content and must know for anyone working with monitoring and systems engineering.
+
+* [Grafana Adventure Time](https://grafana.com/blog/2024/11/20/metrics-logs-traces-and-mayhem-introducing-an-observability-adventure-game-powered-by-grafana-alloy-and-otel/)
+> Metrics, logs, traces, and mayhem: introducing an observability adventure game powered by Grafana Alloy and OTel
+
+* [Grafana Intro To Metrics, Logs, Traces, Profiles](https://github.com/grafana/intro-to-mltp)
+> Introduction to Metrics, Logs, Traces and Profiles in Grafana
 
 ## Networking 
 * https://hpbn.co/
