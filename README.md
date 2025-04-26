@@ -56,6 +56,12 @@ Navigate the repository by clicking on the technology you're interested in. Have
 * [Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
 > This lecture provides a concise overview of building a ChatGPT-like model, covering both pretraining (language modeling) and post-training (SFT/RLHF). For each component, it explores common practices in data collection, algorithms, and evaluation methods. This guest lecture was delivered by Yann Dubois in Stanford’s CS229: Machine Learning course, in Summer 2024.
 
+* [Prompt Engineering](https://www.kaggle.com/whitepaper-prompt-engineering)
+> Comprehensive whitepaper on Prompt Engineering from Lee Boonstra over at Google.
+
+* [Model Context Protocol servers](https://github.com/modelcontextprotocol/servers)
+> This repository is a collection of reference implementations for the Model Context Protocol (MCP), as well as references to community built servers and additional resources.
+
 ## AWS 
 * https://workshops.aws/
 > This website lists workshops created by the teams at Amazon Web Services (AWS). Workshops are hands-on events designed to teach or introduce practical skills, techniques, or concepts which you can use to solve business problems.
@@ -232,6 +238,11 @@ Navigate the repository by clicking on the technology you're interested in. Have
 
 * [Grafana Intro To Metrics, Logs, Traces, Profiles](https://github.com/grafana/intro-to-mltp)
 > Introduction to Metrics, Logs, Traces and Profiles in Grafana
+
+* [AWS Observability Best Practices](https://aws-observability.github.io/observability-best-practices/)
+> This site contains our best practices for observability: what do to, what not to do, and a collection of recipes on how to do them. Most of the content here is vendor agnostic and represents what any good observability solution will provide.
+
+* 
 
 ## Networking 
 * https://hpbn.co/
